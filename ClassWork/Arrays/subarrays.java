@@ -1,8 +1,9 @@
 package ClassWork.Arrays;
 
+import java.util.Scanner;
 public class subarrays {
     public static void main(String[] args) {
-        int[] arr = {1,5,6,7,8,9};
-        
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine()           
     }
 }
